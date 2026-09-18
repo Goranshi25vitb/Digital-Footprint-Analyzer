@@ -105,3 +105,16 @@ It does not require or store:
 -  Banking information
 
 Users should use fictional or general information when demonstrating the project.
+
+### Academic Value
+
+This project demonstrates practical implementation of:
+
+Java Programming
+Object-Oriented Programming
+GUI Development
+File Handling
+Data Processing
+Rule-Based Decision Systems
+Risk Assessment
+Privacy and Cybersecurity Concepts
