@@ -78,18 +78,18 @@ The project uses a **rule-based decision system** instead of automatically acces
 
 The user answers questions related to their privacy and security habits. Each response contributes a certain amount of risk based on its potential privacy impact.
 
-```text
-User Assessment
-       ↓
-Response Processing
-       ↓
-Category Risk Calculation
-       ↓
-Overall Risk Score
-       ↓
-Risk Level
-       ↓
-Personalized Recommendations
+
+1.User Assessment
+       
+2.Response Processing
+       
+3.Category Risk Calculation
+       
+4.Overall Risk Score
+       
+5.Risk Level
+       
+6.Personalized Recommendations
 
 ### Privacy & Security
 
