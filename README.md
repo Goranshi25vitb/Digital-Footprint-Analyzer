@@ -110,11 +110,11 @@ Users should use fictional or general information when demonstrating the project
 
 This project demonstrates practical implementation of:
 
-Java Programming
-Object-Oriented Programming
-GUI Development
-File Handling
-Data Processing
-Rule-Based Decision Systems
-Risk Assessment
-Privacy and Cybersecurity Concepts
+- Java Programming
+- Object-Oriented Programming
+- GUI Development
+- File Handling
+- Data Processing
+- Rule-Based Decision Systems
+- Risk Assessment
+- Privacy and Cybersecurity Concepts
